@@ -1,0 +1,7 @@
+﻿Jan, Kowalsky, M, 29
+Oliver, Alby, M, 75
+Jack, Addington, M, 65
+Harry, Dirty, M, 36
+Emily, Blunt, F, 45
+Grace, Abram, M, 55
+Charlotte, Smith, F, 37
