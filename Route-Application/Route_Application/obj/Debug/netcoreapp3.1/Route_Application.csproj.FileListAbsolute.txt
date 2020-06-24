@@ -1,0 +1,13 @@
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\bin\Debug\netcoreapp3.1\Route_Application.exe
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\bin\Debug\netcoreapp3.1\Route_Application.deps.json
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\bin\Debug\netcoreapp3.1\Route_Application.runtimeconfig.json
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\bin\Debug\netcoreapp3.1\Route_Application.runtimeconfig.dev.json
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\bin\Debug\netcoreapp3.1\Route_Application.dll
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\bin\Debug\netcoreapp3.1\Route_Application.pdb
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\obj\Debug\netcoreapp3.1\Route_Application.csprojAssemblyReference.cache
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\obj\Debug\netcoreapp3.1\Route_Application.csproj.CoreCompileInputs.cache
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\obj\Debug\netcoreapp3.1\Route_Application.AssemblyInfoInputs.cache
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\obj\Debug\netcoreapp3.1\Route_Application.AssemblyInfo.cs
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\obj\Debug\netcoreapp3.1\Route_Application.dll
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\obj\Debug\netcoreapp3.1\Route_Application.pdb
+C:\Users\Emilka\source\repos\Route_Application\Route_Application\obj\Debug\netcoreapp3.1\Route_Application.genruntimeconfig.cache
